@@ -1,1 +1,5 @@
-Al usar Mumuki aceptás que las resoluciones de tus ejercicios en Mumuki sean registradas para que puedan ser corregidas por el docente. Tras ser anonimizadas, tus soluciones pueden llegar a ser usadas por el docente para fines de su investigación sobre enseñanza y pueden ser publicadas en conferencias. En caso de que los datos se usen para fines de investigación, unca se van a presentar de manera individual sino agregada. Si no querés que el docente use estos datos use para estos fines, podés comunicarle tu deseo de que no use tus soluciones. Si manifestás tu voluntad de que no se usen, no se van a usar.
+Al usar Mumuki aceptás que las soluciones de tus ejercicios sean registradas para ser corregidas por tu/s docente/s. 
+
+Tras ser anonimizadas, tus soluciones pueden utilizarse con fines de investigación sobre enseñanza y eventualmente ser publicadas en conferencias u otros eventos científicos. En caso de utilizarse tus datos, serán presentados de manera agregada (es decir, como parte de un conjunto más grande) y nunca difundiremos algún dato que permita identificarte.
+
+Si aún así quisieras que tus datos no se utilicen con estos fines, por favor comunicale tu voluntad a quien administre esta instancia de Mumuki.
